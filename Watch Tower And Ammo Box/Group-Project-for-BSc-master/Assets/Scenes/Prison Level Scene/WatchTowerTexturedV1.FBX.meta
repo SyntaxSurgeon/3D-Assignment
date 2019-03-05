@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: aa46b6587ec39504c8a8fbd195b4333c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Barriers
+    100002: Bottom
+    100004: Floor
+    100006: Roof
+    100008: Roof1
+    100010: Roof2
+    100012: Roof3
+    100014: RoofBot
+    100016: TopMetal
+    100018: //RootNode
+    400000: Barriers
+    400002: Bottom
+    400004: Floor
+    400006: Roof
+    400008: Roof1
+    400010: Roof2
+    400012: Roof3
+    400014: RoofBot
+    400016: TopMetal
+    400018: //RootNode
+    2100000: 'Material #81'
+    2100002: 'Material #335'
+    2100004: 'Material #392'
+    2100006: 'Material #393'
+    2100008: 'Material #394'
+    2100010: 'Material #406'
+    2300000: Barriers
+    2300002: Bottom
+    2300004: Floor
+    2300006: Roof
+    2300008: Roof1
+    2300010: Roof2
+    2300012: Roof3
+    2300014: RoofBot
+    2300016: TopMetal
+    2300018: //RootNode
+    3300000: Barriers
+    3300002: Bottom
+    3300004: Floor
+    3300006: Roof
+    3300008: Roof1
+    3300010: Roof2
+    3300012: Roof3
+    3300014: RoofBot
+    3300016: TopMetal
+    3300018: //RootNode
+    4300000: Tower
+    4300002: Roof
+    4300004: Roof1
+    4300006: Roof2
+    4300008: Roof3
+    4300010: Floor
+    4300012: Bottom
+    4300014: TopMetal
+    4300016: Barriers
+    4300018: RoofBot
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Barrier 1
+    second: {fileID: 2800000, guid: f9d6be44fe12e0446bdaeca00ca7864b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T
+    second: {fileID: 2800000, guid: c013f5b21e086fb4ab5ac3f1e86de1b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: floor
+    second: {fileID: 2800000, guid: 75a9554d6008f0743a0ee92bcbd89770, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2800000, guid: 455bca7ec23e1ef4999c1793b12be53a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: photos_2017_11_10_fst_wall-texture-gray
+    second: {fileID: 2800000, guid: fa4507530feaa6a4f9c79c93025b4c9b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: roof_0105_01_preview
+    second: {fileID: 2800000, guid: a9ec069f410a0ac469ecc1fb3bc5ac72, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

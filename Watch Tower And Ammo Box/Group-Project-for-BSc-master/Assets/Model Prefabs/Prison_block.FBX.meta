@@ -1,0 +1,290 @@
+fileFormatVersion: 2
+guid: 8d7862b36b3d4b448ac73eab2560b553
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Group001
+    100002: Group002
+    100004: Group003
+    100006: Group004
+    100008: Group005
+    100010: Group006
+    100012: Group007
+    100014: Group008
+    100016: Group009
+    100018: Group010
+    100020: Group011
+    100022: Group012
+    100024: Group013
+    100026: Group014
+    100028: Group015
+    100030: Group016
+    100032: Metal bars
+    100034: Metal bars001
+    100036: Metal bars002
+    100038: Metal bars003
+    100040: Metal bars004
+    100042: Metal bars005
+    100044: Metal bars006
+    100046: Metal bars007
+    100048: Metal bars008
+    100050: Metal bars009
+    100052: Metal bars010
+    100054: Metal bars011
+    100056: Metal bars012
+    100058: Metal bars013
+    100060: Metal bars014
+    100062: Metal bars015
+    100064: Plane001
+    100066: Plane002
+    100068: Plane003
+    100070: Plane004
+    100072: Plane005
+    100074: Plane006
+    100076: Plane007
+    100078: Plane008
+    100080: Plane009
+    100082: Plane010
+    100084: Plane011
+    100086: Plane012
+    100088: Plane013
+    100090: Plane014
+    100092: Plane015
+    100094: Plane016
+    100096: Plane017
+    100098: //RootNode
+    400000: Group001
+    400002: Group002
+    400004: Group003
+    400006: Group004
+    400008: Group005
+    400010: Group006
+    400012: Group007
+    400014: Group008
+    400016: Group009
+    400018: Group010
+    400020: Group011
+    400022: Group012
+    400024: Group013
+    400026: Group014
+    400028: Group015
+    400030: Group016
+    400032: Metal bars
+    400034: Metal bars001
+    400036: Metal bars002
+    400038: Metal bars003
+    400040: Metal bars004
+    400042: Metal bars005
+    400044: Metal bars006
+    400046: Metal bars007
+    400048: Metal bars008
+    400050: Metal bars009
+    400052: Metal bars010
+    400054: Metal bars011
+    400056: Metal bars012
+    400058: Metal bars013
+    400060: Metal bars014
+    400062: Metal bars015
+    400064: Plane001
+    400066: Plane002
+    400068: Plane003
+    400070: Plane004
+    400072: Plane005
+    400074: Plane006
+    400076: Plane007
+    400078: Plane008
+    400080: Plane009
+    400082: Plane010
+    400084: Plane011
+    400086: Plane012
+    400088: Plane013
+    400090: Plane014
+    400092: Plane015
+    400094: Plane016
+    400096: Plane017
+    400098: //RootNode
+    2100000: Material 1
+    2100002: 'Material #35'
+    2100004: No Name
+    2300000: Metal bars
+    2300002: Metal bars001
+    2300004: Metal bars002
+    2300006: Metal bars003
+    2300008: Metal bars004
+    2300010: Metal bars005
+    2300012: Metal bars006
+    2300014: Metal bars007
+    2300016: Metal bars008
+    2300018: Metal bars009
+    2300020: Metal bars010
+    2300022: Metal bars011
+    2300024: Metal bars012
+    2300026: Metal bars013
+    2300028: Metal bars014
+    2300030: Metal bars015
+    2300032: Plane001
+    2300034: Plane002
+    2300036: Plane003
+    2300038: Plane004
+    2300040: Plane005
+    2300042: Plane006
+    2300044: Plane007
+    2300046: Plane008
+    2300048: Plane009
+    2300050: Plane010
+    2300052: Plane011
+    2300054: Plane012
+    2300056: Plane013
+    2300058: Plane014
+    2300060: Plane015
+    2300062: Plane016
+    2300064: Plane017
+    3300000: Metal bars
+    3300002: Metal bars001
+    3300004: Metal bars002
+    3300006: Metal bars003
+    3300008: Metal bars004
+    3300010: Metal bars005
+    3300012: Metal bars006
+    3300014: Metal bars007
+    3300016: Metal bars008
+    3300018: Metal bars009
+    3300020: Metal bars010
+    3300022: Metal bars011
+    3300024: Metal bars012
+    3300026: Metal bars013
+    3300028: Metal bars014
+    3300030: Metal bars015
+    3300032: Plane001
+    3300034: Plane002
+    3300036: Plane003
+    3300038: Plane004
+    3300040: Plane005
+    3300042: Plane006
+    3300044: Plane007
+    3300046: Plane008
+    3300048: Plane009
+    3300050: Plane010
+    3300052: Plane011
+    3300054: Plane012
+    3300056: Plane013
+    3300058: Plane014
+    3300060: Plane015
+    3300062: Plane016
+    3300064: Plane017
+    4300000: Plane001
+    4300002: Metal bars
+    4300004: Plane002
+    4300006: Metal bars001
+    4300008: Plane003
+    4300010: Metal bars002
+    4300012: Plane004
+    4300014: Metal bars003
+    4300016: Plane005
+    4300018: Metal bars004
+    4300020: Plane006
+    4300022: Metal bars005
+    4300024: Plane007
+    4300026: Metal bars006
+    4300028: Plane008
+    4300030: Metal bars007
+    4300032: Metal bars008
+    4300034: Plane009
+    4300036: Metal bars009
+    4300038: Plane010
+    4300040: Metal bars010
+    4300042: Plane011
+    4300044: Metal bars011
+    4300046: Plane012
+    4300048: Metal bars012
+    4300050: Plane013
+    4300052: Metal bars013
+    4300054: Plane014
+    4300056: Metal bars014
+    4300058: Plane015
+    4300060: Metal bars015
+    4300062: Plane016
+    4300064: Plane017
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
